@@ -1,2 +1,2 @@
-tomcat8
-nginx
+ibtech/tomcat9
+
